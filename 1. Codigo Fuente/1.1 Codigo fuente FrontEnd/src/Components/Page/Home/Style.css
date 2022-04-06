@@ -1,0 +1,35 @@
+.sectionOne{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(150deg ,#3451ED, #00d2ff);
+    /* background-clip: url("../../../Img/backgrounds/Home-bg1.jpg"); */
+    padding-bottom: 100px;
+    width: 100%;
+}
+
+.svgWave{
+    margin-top: -19%;
+}
+/* 
+.sectionHero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 60%;
+} */
+
+
+
+
+
+
+
+
+
+
+
+

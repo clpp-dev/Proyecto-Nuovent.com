@@ -1,0 +1,33 @@
+Proyecto: Nuovent.com
+
+Ficha: 2184110
+
+Aprendices:
+- Cristian Emilio Dioza Zambrano
+- Cristian Leandro Pérez Peláez
+- Julian Piedrahita Trujillo
+- Jorge Ivan Roa Sabogal
+- Marlin Yiced Orozco
+
+
+Indice:
+ - Codigo fuente:
+	- Codigo fuente FrontEnd
+	- Codigo fuente BackEnd
+
+ - Documentos:
+	- Informe general del sistema
+	- Presentacion del proyecto en formato SENA
+	- Video Promocional
+
+ - Entregables:
+	- Planteamiento del problema
+	- Especificación de requisitos de software
+	- Prototipado del sistema
+	- Documento plan de pruebas
+	- Manual de usuario
+	- Manual técnico o de configuración
+	- Manual de configuración Base de datos
+
+ - Anexos:
+	

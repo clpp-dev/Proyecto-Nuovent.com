@@ -1,0 +1,51 @@
+.cont-button{
+    /* background-color: rgb(16, 179, 124); */
+    width: 100%;
+}
+
+.neumorphism-button{
+    /* background-color: aqua; */
+    color: #3a7bd5;
+    margin: 0px 5px;
+    border-style: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background: #e6e7e9;
+    box-shadow:  1px 1px 2px #c5c5c5,
+             -1px -1px 2px #ffffff;
+    width: 80%;
+    transition: all 0.2s;
+    letter-spacing: 1px;
+    font-family: 'Poppins','Montserrat';
+}
+
+.neumorphism-button:hover{
+    color: #575757;
+    box-shadow: inset 3px 3px 1px rgba(0,0,0,0.1),
+                inset -1px -1px 1px rgba(255,255,255,1);
+    z-index: 10;
+    /* transform:translate(0px, -4px); */
+    font-weight: bold;
+}
+
+
+.neumorphism-button:active{
+    color: #3269b6;
+    box-shadow:  20px 20px 60px #bebebe,
+                -20px -20px 60px #ffffff,
+                inset 3px 3px 5px rgba(0,0,0,0.1),
+                inset -1px -1px 5px rgba(255,255,255,1);
+    z-index: 10;
+}
+
+
+
+
+
+
+
+
+
+
+
+

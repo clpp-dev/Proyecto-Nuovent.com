@@ -1,0 +1,41 @@
+.grid-card{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.custom-card{
+    margin: 0.5rem;
+}
+
+.custom-bg-opacity{
+    background-color: rgba(0, 0, 0, 0.651)
+}
+
+.custom-transform{
+    transition: all 0.3s;
+    transform: scale(100%);
+}
+.custom-transform:hover{
+    transform: scale(102%);
+}
+
+@media screen and (max-width: 1024px) {
+    .grid-card{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .grid-card{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 615px) {
+    .grid-card{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
